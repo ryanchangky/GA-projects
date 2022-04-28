@@ -2,6 +2,7 @@
 
 ### Overview
 
+![Test Pic](data/screenshot.png)
 Our first module in DSI covers:
 - Basic statistics and probability
 - Many Python programming concepts
@@ -204,3 +205,4 @@ In order to pass the project, students must earn a minimum score of 1 for each c
 ### REMEMBER:
 
 This is a learning environment and you are encouraged to try new things, even if they don't work out as well as you planned! While this rubric outlines what we look for in a _good_ project, it is up to you to go above and beyond to create a _great_ project. **Learn from your failures and you'll be prepared to succeed in the workforce**.
+
